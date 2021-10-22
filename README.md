@@ -14,6 +14,7 @@
 
 ## <a name="feedback" /> Связь с преподавателями
 * [Telegram-канал](https://t.me/joinchat/5q-We5b2Oug5ODBi), в котором будут появляться все важные новости
+* Телеграм-бот для сдачи и получения домашних заданий @tnn2021bot
 * Обратная связь - по почте mlcoursemm@gmail.com
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/tnn2021automn/issues)
 
